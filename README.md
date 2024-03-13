@@ -1,24 +1,23 @@
 ## Hi 👋, I'm Mikey
 
 ## 🪐 About Me:
-### I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and app development.
+#### I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and app development.
 
 ## 🛫 What I'm Up To:
-### + Coding SOX prediction algorithms and SPI/CAN communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
-### + Back-End development for the Clemson chapter of Theta Tau's website 
-### + Raising various species of fish in Clemson's AARL for DNA collection and quantification
+#### + Coding SOX prediction algorithms and SPI/CAN communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
+#### + Back-End development for the Clemson chapter of Theta Tau's website 
+#### + Raising various species of fish in Clemson's AARL for DNA collection and quantification
 
 ## 👔 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schoonmaker/)
 
 
 ## 💻 Tech Stack:
-### + Programming Languages: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+#### + Languages: 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### + Software and OS:</h3> 
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=[for-the-badge](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)&logo=Arduino&logoColor=white)] 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<p align="left"></p>
-<h3 align="left"> + Version Control: <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </h3>
-<p align="left">
+#### + Version Control:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### + Relevant Experience:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=[for-the-badge](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)&logo=Arduino&logoColor=white)] ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
