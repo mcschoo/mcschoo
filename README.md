@@ -12,7 +12,7 @@
 
 <h2 align="left">👔 Connect with me:</h2>
 <p align="left"></p>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/michael-schoonmaker/)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schoonmaker/)
 
 <h2 align="left">💻 Tech Stack:</h2>
 <p align="left"></p>
