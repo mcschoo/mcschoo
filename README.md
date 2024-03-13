@@ -9,7 +9,7 @@
 #### + Raising various species of fish in Clemson's AARL for DNA collection and quantification
 
 ## 👔 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schoonmaker/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/michael-schoonmaker/)
 
 
 ## 💻 Tech Stack:
