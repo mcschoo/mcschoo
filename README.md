@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schoonmaker/)
+
 <h2 align="center">Hi 👋, I'm Mikey</h2>
 
 <h2 align="left">🪐 About Me:</h2>
@@ -10,6 +12,7 @@
 
 <h2 align="left">👔 Connect with me:</h2>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schoonmaker/)
+
 
 <h2 align="left">💻 Tech Stack:</h2>
 <p align="left"></p>
