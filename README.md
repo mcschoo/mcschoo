@@ -2,7 +2,7 @@
 
 <h2 align="left">🪐 About Me:</h2>
 <p align="left">
-<h3 align="left">"I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and app development." </h3>
+<h3 align="left">I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and app development.</h3>
 
 <h2 align="left">🛫 What I'm Up To:</h2>
 <p align="left">
