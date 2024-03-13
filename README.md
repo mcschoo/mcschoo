@@ -1,19 +1,19 @@
 <h2 align="center">Hi 👋, I'm Mikey</h2>
 
 <h2 align="left">🪐 About Me:</h2>
-<p align="left">
+<p align="left"></p>
 <h3 align="left">I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and app development.</h3>
 
 <h2 align="left">🛫 What I'm Up To:</h2>
-<p align="left">
+<p align="left"></p>
 <h3 align="left"> + Coding SOX prediction algorithms and IoT communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE </h3>
 <h3 align="left"> + Back-End development for the Clemson chapter of Theta Tau's website </h3>
 <h3 align="left"> + Raising various species of fish in Clemson's AARL for DNA collection and quantification </h3>
 
 <h2 align="left">👔 Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/michael schoonmaker" target="blank"><img ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) /></a>
-<a href="https://www.hackerrank.com/mcschoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mcschoo" height="30" width="40" /></a></p>
+<p align="left"></p>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.hackerrank.com/mcschoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mcschoo" height="30" width="40" /></a>
 
 <h2 align="left">💻 Tech Stack:</h2>
 <p align="left">
