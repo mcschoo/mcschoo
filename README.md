@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mikey</h1>
 
 ## 🪐 About Me:
-### I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, 
-### and app development. 
+#### I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and app development. 
 
 ## 🛫 What I'm Up To:
-### + Coding SOX prediction algorithms and IoT communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
-### + Back-End development for the Clemson chapter of Theta Tau's website
-### + Raising various species of fish in Clemson's AARL for DNA collection and quantification
+#### + Coding SOX prediction algorithms and IoT communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
+#### + Back-End development for the Clemson chapter of Theta Tau's website
+#### + Raising various species of fish in Clemson's AARL for DNA collection and quantification
 
 <h3 align="left">👔 Connect with me:</h3>
 <p align="left">
