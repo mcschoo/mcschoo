@@ -5,7 +5,7 @@
 
 ## 🛫 What I'm Up To:
 #### + Coding SOX prediction algorithms and SPI/CAN communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
-#### + Back-End development for the Clemson chapter of Professional Engineering Organization Theta Tau's website 
+#### + Back-End development for the Clemson chapter of Theta Tau's website 
 #### + Collection and quantification of Herpetology and Acquatic DNA with Clemson's Department of Genetics and Biochemistry
 #### + Personal projects centered around social media app development
 
