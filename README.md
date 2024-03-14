@@ -6,7 +6,7 @@
 ## 🛫 What I'm Up To:
 #### + Coding SOX prediction algorithms and SPI/CAN communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
 #### + Back-End development for the Clemson chapter of Theta Tau's website 
-#### + Raising various species of fish in Clemson's AARL for DNA collection and quantification
+#### + Collection and quantification of Herpetology and Acquatic DNA with Clemson's Department of Genetics and Biochemistry
 
 ## 👔 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schoonmaker/)
