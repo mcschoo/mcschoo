@@ -4,9 +4,9 @@
 #### 💠 I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and app development.
 
 ## 🛫 What I'm Up To:
+#### 💠 Incoming intern with Giorgio Armani
 #### 💠 Coding SOX prediction algorithms and SPI/CAN communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
 #### 💠 Front end development for the Clemson chapter of Theta Tau's website 
-#### 💠 Collection and quantification of Herpetology and Acquatic DNA with Clemson's Department of Genetics and Biochemistry
 #### 💠 Personal projects centered around social media app development
 
 ## 👔 Connect with me:
