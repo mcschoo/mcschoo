@@ -7,7 +7,7 @@
 #### 💠 Incoming intern with Giorgio Armani
 #### 💠 Coding SOX prediction algorithms and SPI/CAN communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
 #### 💠 Front end development for the Clemson chapter of Theta Tau's website 
-#### 💠 Personal projects centered around social media app development
+#### 💠 Personal projects centered around social media app development, and learning to implement common algorithms and industry patterns into my code
 
 ## 👔 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schoonmaker/)
