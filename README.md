@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Mikey
 
 ## 🪐 About Me:
-#### 💠 I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and app development.
+#### 💠 I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and machine learning.
 
 ## 🛫 What I'm Up To:
 #### 💠 Interning with Giorgio Armani in New York City
