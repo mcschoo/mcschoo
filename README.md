@@ -4,7 +4,7 @@
 #### 💠 I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and machine learning.
 
 ## 🛫 What I'm Up To:
-#### 💠 Working on Software Engineering and Agile projects as a Embedded Systems Engineering Co-op @ Aeronix
+#### 💠 Working on Agile SWE projects as a Embedded Systems Engineering Co-op @ Aeronix
 #### 💠 Coding SOX prediction algorithms and SPI/CAN communication protocols for a Distributed Architecture BMS with CU-ICAR, Stellantis, and the US DoE
 #### 💠 Launched research with NASA as a part of their RockSat-X sounding rocket mission
 #### 💠 Wrapped up my internship with Giorgio Armani's corporate office in New York City
