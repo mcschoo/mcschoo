@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Mikey
 
 ## 🪐 About Me:
-#### 💠 I'm a third year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and machine learning.
+#### 💠 I'm a fourth year Computer Science student at Clemson University, passionate about exploring the world of software engineering, embedded systems software, and machine learning.
 
 ## 🛫 What I'm Up To:
 #### 💠 Working on Agile SWE projects as a Embedded Systems Engineering Co-op @ Aeronix
