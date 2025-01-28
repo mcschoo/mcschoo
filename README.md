@@ -1,15 +1,14 @@
-## Hi 👋, I'm Mikey
+## Hello World! 👋 I'm Mikey Schoonmaker
 
 ## 🪐 About Me:
 #### 💠 I'm a fourth year Computer Science student at Clemson University, passionate about exploring the world of embedded systems software engineering and edge AI products. 
 
 ## 🛫 What I'm Up To:
 #### 💠 Coding MCU to Ground Station interplay as an Avionics Software Engineer for Clemson Rocketry
-#### 💠 Working on Agile SWE projects as a Embedded Systems Engineering Co-op @ Aeronix
+#### 💠 Working on Agile projects as a Embedded Systems SWE Co-op @ Aeronix
 #### 💠 Launched research with NASA as a part of their RockSat-X sounding rocket mission
 #### 💠 Wrapped up my internship with Giorgio Armani's corporate office in New York City
 #### 💠 Front end development for the Clemson chapter of Theta Tau's website 
-#### 💠 Personal projects in Cybersecurity and Artificial Intelligence using AWS and Llama 3-8B (respectively)
 
 ## 👔 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schoonmaker/)
