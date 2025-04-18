@@ -4,7 +4,7 @@
 #### 💠 I'm a fourth year Computer Science student at Clemson University, passionate about exploring the world of embedded systems software engineering and edge AI products. I have garnered experience coding in both real time and bare metal environments.
 
 ## 🛫 What I'm Up To:
-#### 💠 Integrating a kalman filter to an active aero break system as an Avionics SWE for Clemson Rocket Engineering
+#### 💠 Integrating a burnout aware state machine into an active aero break system as an Avionics SWE for Clemson Rocket Engineering
 #### 💠 Working on Agile software projects as a Embedded Systems SWE Co-op @ Aeronix
 #### 💠 Wrapped up my internship with Giorgio Armani's corporate office in New York City
 
