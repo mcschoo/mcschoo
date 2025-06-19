@@ -18,15 +18,17 @@
 #### 💠 IDEs/TEs, VC, & OSs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+
 ## 🧪 Project Specific Stacks (past 12 months)
-#### 🔍 Conversationalist File Search Model (March 2025 – )
+#### 💠 Conversationalist File Search Model (March 2025 – )
 > Python, React, TypeScript, TailwindCSS, FastAPI, Node.js, PyTorch, Ollama, Hugging Face, Visual Studio Code, GitHub, Windows 11
 
-#### 🗣️ Autonomous Robot Guided by User Speech (March 2025 – )
+#### 💠 Autonomous Robot Guided by User Speech (March 2025 – )
 > Python, Google Gemini, Visual Studio Code, GitHub, Windows 11, Ubuntu
 
-#### 🛰️ Live Air Force Systems Interface (Jan 2025 – )
+#### 💠 Live Air Force Systems Interface (Jan 2025 – )
 > Python, JavaScript, HTML5, Bootstrap, Flask, Visual Studio Code, GitHub, Windows 11
 
-#### 🚀 Launcher Interface Module (Aug 2024 – Jan 2025)
+#### 💠 Launcher Interface Module (Aug 2024 – Jan 2025)
 > C, Python, FreeRTOS, Vim, Bitbucket, Ubuntu
