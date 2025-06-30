@@ -5,7 +5,7 @@
 
 ## 🛫 What I'm Up To:
 #### 💠 Fullstack development of live telemetry + video systems as the Avionics SRAD Lead for Clemson Rocket Engineering
-#### 💠 Working on Agile embedded systems software & AI projects as a Embedded Systems SWE Co-op @ Aeronix
+#### 💠 Working on Agile embedded systems software & AI projects as a Embedded Systems SWE Intern @ Aeronix
 #### 💠 Wrapped up my internship with Giorgio Armani's corporate office in New York City
 
 ## 👔 Connect with me:
