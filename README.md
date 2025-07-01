@@ -1,7 +1,7 @@
 ## Hello World! 👋 I'm Mikey Schoonmaker
 
 ## 🪐 About Me:
-#### 💠 I'm a senior Computer Science student at Clemson University, passionate about exploring the world of embedded systems software engineering and edge AI products. I have garnered experience coding in both real time and bare metal environments.
+#### 💠 I'm a senior Computer Science student at Clemson University, passionate about exploring the world of software development, especially around AI & embedded systems. I have garnered experience coding in both real time and bare metal environments.
 
 ## 🛫 What I'm Up To:
 #### 💠 Fullstack development of live telemetry + video systems as the Avionics SRAD Lead for Clemson Rocket Engineering
